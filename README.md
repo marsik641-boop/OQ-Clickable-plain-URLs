@@ -5,9 +5,10 @@ Userscript для Tampermonkey.
 Работает на стороне клиента, без правок CRM.
 
 ## Установка
-1. Установить расширение Tampermonkey
+1. Установить расширение Tampermonkey по ссылке:
+	https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Открыть ссылку на скрипт:
-   https://raw.githubusercontent.com/marsik641-boop/oq-clickable-plain-urls/main/oq-clickable-plain-urls.user.jsmarsik641-boop
+	https://raw.githubusercontent.com/marsik641-boop/oq-clickable-plain-urls/main/oq-clickable-plain-urls.user.jsmarsik641-boop
 3. Подтвердить установку
 
 Обновления подтягиваются автоматически.
