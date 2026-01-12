@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         OQ Clickable Plain URLs
 // @namespace    https://github.com/marsik641-boop/oq-clickable-plain-urls
-// @version      1.0.0
+// @version      1.0.1
 // @description  Make plain-text URLs clickable in CRM pages
-// @match        *://*/*
+// @match        https://crm.oqprint.ru/*
 // @run-at       document-end
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/marsik641-boop/oq-clickable-plain-urls/main/oq-clickable-plain-urls.user.js
